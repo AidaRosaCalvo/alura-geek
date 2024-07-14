@@ -1,0 +1,16 @@
+{
+  "name": "alura-geek",
+  "version": "1.0.0",
+  "description": "Desafío de Alura Latam para el trabajo con Java Script y una fake api con JSON Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aida Rosa Calvo Fleites",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.1"
+  }
+}

@@ -23,11 +23,11 @@ Para ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/DDansAbelenda/challenge-one-alura-geek.git
+   git clone https://github.com/AidaRosaCalvo/alura-geek.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd challenge-one-alura-geek
+   cd alura-geek
    ```
 3. Instala las dependencias del proyecto:
    ```bash
@@ -43,7 +43,7 @@ Para ejecutar la aplicación en tu máquina local, sigue estos pasos:
 
 La API está desplegada en Vercel. Puedes acceder a la API en el siguiente enlace:
 
-[Enlace a la API](https://challenge-one-alura-geek-fake-api.vercel.app/)
+[Enlace a la API](https://alura-geek-api-pi.vercel.app/)
 
 ## Uso de la Aplicación
 
